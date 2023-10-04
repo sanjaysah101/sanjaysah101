@@ -3,23 +3,23 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanjay Kumar Sah</h1>
-<h3 align="center">A passionate full Stack developer from Nepal</h3>
+<h3 align="center">A passionate Front End Developer</h3>
+
+[![An image of @sknepali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknepali)](https://holopin.io/@sknepali)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sknepali&label=Profile%20views&color=0e75b6&style=flat" alt="sknepali" /> </p>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sknepali&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="left"> <a href="https://twitter.com/sanjaysknepali" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaysknepali?logo=twitter&style=for-the-badge" alt="sanjaysknepali" /></a> </p>
 
-- 🔭 I’m currently working on **Supply Chain Management System**
+- 🔭 I’m currently working on **Something Big**
 
-- 🌱 I’m currently learning **JavaScript, Java, C#, .Net**
+- 🌱 I’m currently learning **JavaScript, React, Node, Next.js, CSS3**
 
-- 👯 I’m looking to collaborate on **Supply Chain Management System**
+- 👯 I’m looking to collaborate on **Ansopedia**
 
-- 💬 Ask me about **Java, JavaScript, C#**
+- 💬 Ask me about **JavaScript, CSS3, HTML, React, Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
