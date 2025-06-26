@@ -29,4 +29,7 @@
 
 ![Sanjay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysah101&theme=tokyonight)
 
-![Sanjay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaysah101&theme=tokyonight)
+![Sanjay's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sanjaysah101&theme=tokyonight)
+
+## ✍️ Random Dev Quote
+![GitHub Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
