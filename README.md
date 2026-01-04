@@ -20,8 +20,8 @@
 - 💬 Ask me about **JavaScript, CSS3, HTML, React, Next.js**
 
 ## Connect with me
-
-[![x](https://img.shields.io/badge/x-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_sanjaysah) [![LinkedIn](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://linkedin.com/in/sanjaysah101) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sanjaysah101) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sanjaysah101) [![HackerRank](https://img.shields.io/badge/HackerRank-323232.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/_sanjaysah) [![HackerEarth](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/sanjaysah) [![GeeksForGeeks](https://img.shields.io/badge/Geek%20For%20Geeks-000000.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sknepali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaysah101/) 
+[![x](https://img.shields.io/badge/x-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/sanjaysah101) [![LinkedIn](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanjaysah) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sanjaysah101) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sanjaysah_101) [![HackerRank](https://img.shields.io/badge/HackerRank-323232.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/_sanjaysah) [![HackerEarth](https://img.shields.io/badge/HackerEarth-000000.svg?style=for-the-badge&logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@sanjaysah/) [![GeeksForGeeks](https://img.shields.io/badge/Geek%20For%20Geeks-000000.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sknepali) 
 
 ## 📊 GitHub Stats
 
@@ -30,6 +30,10 @@
 ![Sanjay's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysah101&theme=tokyonight)
 
 ![Sanjay's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sanjaysah101&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanjaysah101&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ## ✍️ Random Dev Quote
 ![GitHub Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
